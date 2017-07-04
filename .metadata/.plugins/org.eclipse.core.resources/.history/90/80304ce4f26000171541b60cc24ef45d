@@ -1,0 +1,10 @@
+package projects;
+
+public class PrivateExample {
+
+	private String breed;
+	 
+    public void Dog() {
+        breed = "Bull";
+    }
+}

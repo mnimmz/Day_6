@@ -1,0 +1,17 @@
+package projects;
+
+public class PublicExample {
+
+	public int x;
+	 
+    public void Dog() {
+        x = 2;
+    }
+	
+//	public void example1(){
+//		System.out.println("This is an example of public access modifier.");
+//	}
+	
+	
+
+}
